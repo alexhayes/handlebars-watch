@@ -5,8 +5,16 @@ using **handlebars**.
 
 ## Requirements
 
-1. (handlebars)[http://handlebarsjs.com/precompilation.html] binary must be installed.
-2. Python (watchdog)[http://packages.python.org/watchdog/] must be on your Python path.
+1. [handlebars](http://handlebarsjs.com/precompilation.html) binary must be installed.
+2. Python [watchdog](http://packages.python.org/watchdog/) must be on your Python path.
+
+## Installation
+
+```bash
+git clone git://github.com/alexhayes/handlebars-watch.git
+cd handlebars-watch
+python setup.py install
+```
 
 ## Usage
 
